@@ -56,4 +56,5 @@ else
 		lr_end_transaction("%s", LR_FAIL);
 
 	}'''%(asse,lr_transaction,lr_transaction,"%s",asse,lr_transaction)
+print("//事务判断")
 print(duanyan)
